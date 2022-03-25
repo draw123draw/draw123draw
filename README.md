@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @draw123draw
 - 👀 I’m interested in python,deeplearning
 - 🌱 I’m currently learning python and deeplearning
-- 💞️ but still very poor in proficiency
+- 💞️ but still very poor in proficiency. . .
 - 📫 共勉！
 
 <!---
